@@ -13,7 +13,7 @@
     "classnames": "^2.2.6",
     "concurrently": "^4.1.2",
     "graphql": "^15.5.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "marked": "^0.7.0",
     "moment": "^2.24.0",
     "node-sass": "^4.12.0",
